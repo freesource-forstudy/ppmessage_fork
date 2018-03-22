@@ -11,7 +11,7 @@ deb http://mirrors.163.com/debian jessie main non-free contrib
 
 ```bash
 # apt-get install git
-# git clone https://github.com/PPMESSAGE/ppmessage.git
+# git clone https://github.com/freesource-forstudy/ppmessage_fork.git
 # cd ppmessage
 
 ```
